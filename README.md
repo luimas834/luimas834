@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on beginner-friendly open-source projects and small team projects
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/samiul-hossain-6526a5302/) | email: luimas834@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: anime is cartoon
+- ⚡ Fun fact: I use arch btw (>_<)
 
 <!---
 Samiul834/Samiul834 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
